@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'Pokemon';
+    src: url('../font/Pokemon\ Solid.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+h1 {
+    font-family: 'Pokemon', Times, sans-serif;
+}
+body   {
+    background-image: url('../img/fundo-site.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.cabecalho {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    padding-top: 50px;
+}
+
+.cabecalho-titulo {
+    color: #f1ecff;
+}
+
+.cabecalho-img {
+    width: 40px;
+    height: 40px;
+}
+
+.main {
+    display: flex;
+    justify-content: center;
+}
