@@ -1,0 +1,36 @@
+@media (max-width: 620px) {
+    .cabecalho-titulo {
+        font-size: 14px;
+    }
+    
+    .main {
+        padding: 0px 15px;
+        gap: 10px;
+    }
+
+    .main-btn {
+        width: 20px;
+        height: 20px;
+        padding: 20px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .main-list {
+        height: 480px;
+    }
+
+    .main-list-img {
+        max-height: 230px;
+    }
+
+    .main-list-info-name {
+        max-width: 50%;
+        font-size: 18px;
+    }
+
+    .main-list-info-hp {
+        font-size: 14px;
+    }
+}
