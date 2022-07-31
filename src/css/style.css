@@ -13,7 +13,7 @@ body {
     background-image: url('../img/fundo-site.png');
     background-repeat: no-repeat;
     background-size: cover;
-    min-height: 100vm;
+    min-height: 100em;
 }
 
 .cabecalho {
