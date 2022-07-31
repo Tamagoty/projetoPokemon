@@ -8,12 +8,14 @@
 h1 {
     font-family: 'Pokemon', Times, sans-serif;
 }
-body   {
+
+body {
     background-image: url('../img/fundo-site.png');
     background-repeat: no-repeat;
     background-size: cover;
     min-height: 100vm;
 }
+
 .cabecalho {
     display: flex;
     justify-content: center;
@@ -87,10 +89,12 @@ body   {
     background-image: url('../img/fundo-card-1.jpg');
     background-repeat: no-repeat;
 }
+
 .cartao-fundo2 {
     background-image: url('../img/fundo-card-2.jpg');
     background-repeat: no-repeat;
 }
+
 .cartao-fundo3 {
     background-image: url('../img/fundo-card-3.jpg');
     background-repeat: no-repeat;
@@ -103,6 +107,8 @@ body   {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Outfit', sans-serif;
 }
 
 .main-list-info-name {
